@@ -45,3 +45,6 @@ pip install pandas matplotlib seaborn
 ### Conclusão
 
 Este projeto oferece uma visão inicial da análise de dados de turbinas eólicas, explorando a relação entre a velocidade do vento e a potência gerada. Além disso, introduzimos a ideia de limites operacionais e como eles podem ser visualizados para monitorar o desempenho das turbinas.
+
+O artigo completo sobre esta análise de dados de turbinas eólicas pode ser encontrado no Medium: [Análise de Dados de Turbinas Eólicas](https://medium.com/@vhsmdev/an%C3%A1lise-de-dados-de-turbinas-e%C3%B3licas-7c42ede6df7a).
+
